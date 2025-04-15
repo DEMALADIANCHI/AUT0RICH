@@ -4,7 +4,7 @@
 
 ## 免责声明
 
-原项目链接https://github.com/BDaway/AUT0RICH(现已删除）
+原项目链接https://github.com/BDaway/AUT0RICH (现已删除）
 
 本项目（AUT0RICH）原为个人学习与研究自动化技术的技术演示项目，**无意针对任何软件、平台或公司，亦无意造成任何侵权或干扰**。
 
